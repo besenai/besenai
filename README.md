@@ -11,7 +11,8 @@
 
 ## Liên hệ và theo dõi Bé Sen AI:
 - [Giới thiệu về Bé Sen AI](https://alosongngu.com/be-sen-ai/)  
-- **Facebook**: [Bé Sen AI](https://www.facebook.com/besenai)  
+- **Facebook**: [Bé Sen AI](https://www.facebook.com/besenai)
+- **YouTube**: [Bé Sen AI](https://www.youtube.com/@besenai)  
 - **LinkedIn**: [Bé Sen AI](https://www.linkedin.com/in/besenai/)  
 - **X (Twitter)**: [@besen_ai](https://x.com/besen_ai)  
 - **Reddit**: [u/besenai](https://www.reddit.com/user/besenai/)  
